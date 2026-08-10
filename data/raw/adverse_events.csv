@@ -1,0 +1,529 @@
+patient_id,ae_term,ctcae_grade,serious_ae,related_to_treatment
+TRI-002,Diarrhea,2,No,Related
+TRI-002,Nausea,4,Yes,Possibly related
+TRI-002,Anemia,3,No,Related
+TRI-003,Fatigue,2,No,Related
+TRI-003,Neutropenia,4,Yes,Not related
+TRI-004,Fatigue,2,No,Related
+TRI-004,Diarrhea,2,No,Not related
+TRI-004,Rash,2,No,Not related
+TRI-004,Pneumonitis,2,No,Related
+TRI-005,Fatigue,1,No,Not related
+TRI-005,Nausea,2,No,Possibly related
+TRI-006,Anemia,2,No,Related
+TRI-006,Nausea,2,No,Related
+TRI-006,Nausea,1,No,Not related
+TRI-007,Nausea,1,No,Not related
+TRI-007,Fatigue,1,No,Possibly related
+TRI-007,Fatigue,2,No,Not related
+TRI-008,Anemia,2,No,Related
+TRI-008,Nausea,2,No,Possibly related
+TRI-008,Nausea,1,No,Related
+TRI-008,Nausea,3,No,Possibly related
+TRI-010,Neutropenia,2,No,Related
+TRI-010,Fatigue,2,No,Possibly related
+TRI-010,Anemia,3,No,Not related
+TRI-010,Diarrhea,3,No,Not related
+TRI-012,Fatigue,1,No,Not related
+TRI-014,Neutropenia,1,No,Related
+TRI-014,Neutropenia,3,No,Not related
+TRI-015,Rash,1,No,Related
+TRI-015,Fatigue,1,No,Related
+TRI-015,Pneumonitis,1,No,Possibly related
+TRI-015,Elevated ALT,1,No,Related
+TRI-016,Anemia,2,No,Related
+TRI-017,Nausea,8,No,Related
+TRI-017,Nausea,1,No,Not related
+TRI-018,Fatigue,2,No,Not related
+TRI-020,Diarrhea,3,No,Related
+TRI-020,Pneumonitis,1,No,Related
+TRI-020,Neutropenia,2,No,Not related
+TRI-020,Pneumonitis,2,No,Not related
+TRI-021,Rash,3,No,Related
+TRI-022,Diarrhea,1,No,Not related
+TRI-023,Nausea,1,No,Not related
+TRI-023,Rash,1,No,Not related
+TRI-025,Fatigue,3,No,Not related
+TRI-025,Diarrhea,2,No,Not related
+TRI-025,Rash,1,No,Possibly related
+TRI-026,Rash,1,No,Possibly related
+TRI-026,Rash,2,No,Possibly related
+TRI-026,Anemia,1,No,Related
+TRI-026,Fatigue,1,No,Related
+TRI-027,Fatigue,1,No,Possibly related
+TRI-027,Diarrhea,1,No,Not related
+TRI-028,Rash,3,No,Not related
+TRI-028,Nausea,2,No,Possibly related
+TRI-029,Fatigue,2,No,Possibly related
+TRI-030,Fatigue,3,No,Related
+TRI-030,Diarrhea,2,No,Related
+TRI-030,Pneumonitis,1,No,Related
+TRI-031,Diarrhea,1,No,Related
+TRI-033,Anemia,4,Yes,Related
+TRI-033,Neutropenia,3,No,Not related
+TRI-034,Anemia,2,No,Not related
+TRI-034,Anemia,3,No,Possibly related
+TRI-034,Fatigue,3,No,Related
+TRI-035,Nausea,1,No,Related
+TRI-035,Nausea,1,No,Possibly related
+TRI-035,Elevated ALT,1,No,Related
+TRI-036,Elevated ALT,3,No,Possibly related
+TRI-036,Anemia,2,No,Related
+TRI-036,Neutropenia,2,No,Possibly related
+TRI-036,Fatigue,2,No,Possibly related
+TRI-038,Rash,3,No,Related
+TRI-039,Elevated ALT,4,Yes,Possibly related
+TRI-039,Diarrhea,1,No,Related
+TRI-040,Elevated ALT,2,No,Not related
+TRI-040,Rash,3,Yes,Not related
+TRI-041,Fatigue,3,No,Related
+TRI-042,Fatigue,1,No,Possibly related
+TRI-042,Rash,2,No,Not related
+TRI-042,Nausea,1,No,Possibly related
+TRI-042,Fatigue,1,No,Related
+TRI-043,Anemia,2,No,Related
+TRI-043,Fatigue,2,No,Not related
+TRI-044,Anemia,2,No,Related
+TRI-048,Nausea,3,No,Possibly related
+TRI-048,Neutropenia,2,No,Related
+TRI-048,Elevated ALT,1,No,Not related
+TRI-049,Rash,2,No,Possibly related
+TRI-049,Nausea,2,No,Related
+TRI-049,Fatigue,3,No,Related
+TRI-051,Fatigue,1,No,Related
+TRI-051,Anemia,1,No,Possibly related
+TRI-051,Neutropenia,3,No,Possibly related
+TRI-051,Fatigue,2,No,Possibly related
+TRI-052,Diarrhea,1,No,Not related
+TRI-052,Fatigue,1,No,Not related
+TRI-052,Fatigue,2,No,Not related
+TRI-052,Fatigue,1,No,Not related
+TRI-053,Neutropenia,3,No,Possibly related
+TRI-053,Fatigue,1,No,Related
+TRI-054,Neutropenia,1,No,Not related
+TRI-054,Nausea,3,No,Related
+TRI-055,Diarrhea,1,No,Related
+TRI-055,Rash,2,No,Not related
+TRI-057,Rash,2,No,Related
+TRI-058,Diarrhea,2,No,Related
+TRI-058,Rash,2,No,Related
+TRI-059,Fatigue,2,No,Possibly related
+TRI-059,Fatigue,2,No,Not related
+TRI-059,Neutropenia,2,No,Not related
+TRI-059,Diarrhea,3,No,Related
+TRI-060,Anemia,1,No,Possibly related
+TRI-060,Nausea,1,No,Not related
+TRI-061,Rash,1,No,Related
+TRI-061,Fatigue,2,No,Possibly related
+TRI-061,Elevated ALT,1,No,Not related
+TRI-061,Neutropenia,2,No,Possibly related
+TRI-062,Anemia,1,No,Related
+TRI-063,Pneumonitis,4,Yes,Related
+TRI-064,Nausea,1,No,Related
+TRI-065,Fatigue,1,No,Not related
+TRI-066,Nausea,1,No,Not related
+TRI-067,Nausea,2,No,Not related
+TRI-068,Nausea,1,No,Possibly related
+TRI-068,Nausea,1,No,Possibly related
+TRI-069,Pneumonitis,1,No,Not related
+TRI-069,Fatigue,2,No,Not related
+TRI-069,Neutropenia,1,No,Related
+TRI-069,Diarrhea,1,No,Related
+TRI-070,Fatigue,1,No,Related
+TRI-070,Fatigue,2,No,Not related
+TRI-070,Anemia,1,No,Possibly related
+TRI-071,Nausea,2,No,Related
+TRI-071,Neutropenia,2,No,Related
+TRI-071,Nausea,4,Yes,Possibly related
+TRI-071,Fatigue,1,No,Possibly related
+TRI-072,Anemia,3,No,Possibly related
+TRI-072,Nausea,3,No,Related
+TRI-072,Pneumonitis,1,No,Possibly related
+TRI-073,Rash,2,No,Related
+TRI-073,Fatigue,3,No,Not related
+TRI-073,Anemia,1,No,Not related
+TRI-073,Nausea,3,No,Possibly related
+TRI-074,Neutropenia,1,No,Related
+TRI-074,Fatigue,2,No,Related
+TRI-074,Elevated ALT,1,No,Not related
+TRI-074,Anemia,3,Yes,Possibly related
+TRI-077,Diarrhea,2,No,Related
+TRI-077,Anemia,2,No,Not related
+TRI-077,Anemia,4,Yes,Related
+TRI-077,Rash,1,No,Not related
+TRI-078,Rash,1,No,Not related
+TRI-079,Fatigue,1,No,Not related
+TRI-079,Fatigue,4,Yes,Related
+TRI-080,Anemia,1,No,Possibly related
+TRI-080,Fatigue,2,No,Not related
+TRI-080,Fatigue,1,No,Related
+TRI-081,Nausea,3,No,Related
+TRI-081,Rash,2,No,Related
+TRI-083,Anemia,3,No,Not related
+TRI-084,Diarrhea,2,No,Possibly related
+TRI-085,Fatigue,1,No,Not related
+TRI-086,Anemia,1,No,Not related
+TRI-086,Elevated ALT,2,No,Related
+TRI-087,Nausea,1,No,Not related
+TRI-087,Fatigue,3,No,Related
+TRI-088,Fatigue,2,No,Not related
+TRI-088,Anemia,1,No,Not related
+TRI-088,Nausea,2,No,Possibly related
+TRI-089,Neutropenia,1,No,Not related
+TRI-089,Nausea,1,No,Possibly related
+TRI-089,Nausea,1,No,Related
+TRI-089,Anemia,2,No,Related
+TRI-090,Pneumonitis,3,Yes,Not related
+TRI-090,Neutropenia,1,No,Related
+TRI-090,Fatigue,2,No,Possibly related
+TRI-092,Fatigue,3,No,Possibly related
+TRI-092,Fatigue,1,No,Related
+TRI-095,Nausea,1,No,Not related
+TRI-095,Pneumonitis,1,No,Not related
+TRI-095,Diarrhea,1,No,Possibly related
+TRI-096,Rash,1,No,Possibly related
+TRI-096,Rash,2,No,Related
+TRI-097,Anemia,1,No,Related
+TRI-097,Anemia,1,No,Related
+TRI-097,Fatigue,2,No,Possibly related
+TRI-098,Fatigue,2,No,Not related
+TRI-099,Fatigue,1,No,Not related
+TRI-099,Fatigue,2,No,Related
+TRI-099,Nausea,2,No,Related
+TRI-100,Nausea,3,No,Related
+TRI-100,Rash,3,Yes,Not related
+TRI-100,Nausea,2,No,Not related
+TRI-100,Anemia,2,No,Related
+TRI-101,Fatigue,1,No,Related
+TRI-101,Nausea,3,Yes,Not related
+TRI-101,Fatigue,2,No,Related
+TRI-102,Diarrhea,3,No,Not related
+TRI-103,Anemia,4,Yes,Related
+TRI-104,Fatigue,2,No,Possibly related
+TRI-104,Fatigue,3,No,Related
+TRI-104,Elevated ALT,1,No,Not related
+TRI-106,Nausea,2,No,Related
+TRI-106,Neutropenia,1,No,Related
+TRI-107,Fatigue,1,No,Related
+TRI-107,Elevated ALT,1,No,Related
+TRI-108,Fatigue,1,No,Not related
+TRI-108,Anemia,1,No,Related
+TRI-108,Fatigue,2,No,Related
+TRI-109,Fatigue,1,No,Related
+TRI-109,Neutropenia,2,No,Not related
+TRI-109,Anemia,1,No,Related
+TRI-110,Rash,1,No,Possibly related
+TRI-110,Diarrhea,3,No,Not related
+TRI-110,Fatigue,1,No,Not related
+TRI-111,Fatigue,3,No,Possibly related
+TRI-111,Fatigue,4,Yes,Possibly related
+TRI-111,Pneumonitis,2,No,Not related
+TRI-113,Rash,1,No,Possibly related
+TRI-113,Anemia,2,No,Related
+TRI-113,Nausea,2,No,Related
+TRI-113,Anemia,1,No,Related
+TRI-114,Elevated ALT,3,No,Not related
+TRI-115,Fatigue,3,Yes,Possibly related
+TRI-115,Anemia,3,No,Not related
+TRI-115,Fatigue,3,Yes,Not related
+TRI-117,Fatigue,2,No,Possibly related
+TRI-117,Nausea,2,No,Not related
+TRI-117,Pneumonitis,1,No,Possibly related
+TRI-118,Fatigue,1,No,Possibly related
+TRI-118,Nausea,1,No,Possibly related
+TRI-119,Anemia,1,No,Not related
+TRI-119,Nausea,3,No,Possibly related
+TRI-120,Anemia,2,No,Not related
+TRI-121,Pneumonitis,1,No,Related
+TRI-121,Nausea,1,No,Related
+TRI-121,Fatigue,3,No,Related
+TRI-122,Nausea,2,No,Possibly related
+TRI-122,Nausea,4,Yes,Related
+TRI-122,Pneumonitis,4,Yes,Possibly related
+TRI-123,Fatigue,3,No,Possibly related
+TRI-124,Neutropenia,3,Yes,Not related
+TRI-124,Diarrhea,2,No,Possibly related
+TRI-124,Fatigue,2,No,Not related
+TRI-125,Anemia,3,No,Related
+TRI-126,Rash,1,No,Not related
+TRI-126,Diarrhea,2,No,Not related
+TRI-126,Rash,1,No,Possibly related
+TRI-127,Neutropenia,2,No,Possibly related
+TRI-127,Nausea,1,No,Possibly related
+TRI-129,Fatigue,3,No,Possibly related
+TRI-129,Diarrhea,1,No,Possibly related
+TRI-129,Fatigue,2,No,Related
+TRI-129,Pneumonitis,1,No,Possibly related
+TRI-130,Pneumonitis,1,No,Related
+TRI-130,Neutropenia,2,No,Not related
+TRI-131,Diarrhea,2,No,Related
+TRI-131,Nausea,1,No,Related
+TRI-132,Anemia,2,No,Possibly related
+TRI-132,Neutropenia,2,No,Related
+TRI-133,Nausea,2,No,Not related
+TRI-133,Fatigue,3,No,Related
+TRI-133,Fatigue,1,No,Related
+TRI-134,Rash,3,No,Related
+TRI-134,Fatigue,1,No,Related
+TRI-134,Nausea,1,No,Not related
+TRI-135,Fatigue,1,No,Related
+TRI-137,Fatigue,2,No,Possibly related
+TRI-137,Nausea,1,No,Not related
+TRI-137,Fatigue,4,Yes,Not related
+TRI-137,Fatigue,2,No,Possibly related
+TRI-138,Diarrhea,1,No,Possibly related
+TRI-139,Neutropenia,1,No,Not related
+TRI-139,Nausea,1,No,Not related
+TRI-139,Diarrhea,2,No,Related
+TRI-140,Nausea,2,No,Related
+TRI-141,Anemia,2,No,Not related
+TRI-141,Anemia,1,No,Not related
+TRI-141,Neutropenia,2,No,Possibly related
+TRI-142,Fatigue,2,No,Related
+TRI-142,Diarrhea,4,Yes,Not related
+TRI-142,Nausea,2,No,Possibly related
+TRI-142,Diarrhea,2,No,Not related
+TRI-143,Rash,2,No,Possibly related
+TRI-143,Rash,4,Yes,Possibly related
+TRI-143,Fatigue,1,No,Possibly related
+TRI-144,Neutropenia,1,No,Related
+TRI-144,Nausea,2,No,Possibly related
+TRI-145,Pneumonitis,2,No,Not related
+TRI-145,Diarrhea,2,No,Not related
+TRI-145,Nausea,1,No,Related
+TRI-146,Rash,3,No,Not related
+TRI-146,Nausea,1,No,Related
+TRI-147,Fatigue,2,No,Related
+TRI-147,Pneumonitis,1,No,Related
+TRI-147,Diarrhea,1,No,Related
+TRI-148,Fatigue,3,No,Related
+TRI-148,Anemia,1,No,Not related
+TRI-148,Nausea,2,No,Not related
+TRI-148,Nausea,2,No,Related
+TRI-149,Nausea,3,No,Possibly related
+TRI-149,Rash,2,No,Possibly related
+TRI-149,Neutropenia,1,No,Not related
+TRI-149,Rash,2,No,Possibly related
+TRI-150,Neutropenia,1,No,Possibly related
+TRI-150,Fatigue,1,No,Related
+TRI-150,Pneumonitis,2,No,Not related
+TRI-151,Elevated ALT,2,No,Not related
+TRI-151,Rash,2,No,Not related
+TRI-151,Fatigue,2,No,Related
+TRI-151,Fatigue,2,No,Possibly related
+TRI-152,Fatigue,1,No,Related
+TRI-153,Rash,2,No,Not related
+TRI-153,Nausea,1,No,Related
+TRI-154,Fatigue,2,No,Related
+TRI-154,Neutropenia,2,No,Related
+TRI-154,Fatigue,3,No,Not related
+TRI-154,Fatigue,1,No,Possibly related
+TRI-156,Fatigue,1,No,Possibly related
+TRI-156,Neutropenia,3,No,Possibly related
+TRI-157,Nausea,1,No,Not related
+TRI-157,Nausea,2,No,Not related
+TRI-158,Diarrhea,2,No,Related
+TRI-158,Nausea,1,No,Related
+TRI-158,Diarrhea,1,No,Related
+TRI-159,Fatigue,1,No,Possibly related
+TRI-159,Elevated ALT,1,No,Possibly related
+TRI-159,Anemia,1,No,Possibly related
+TRI-160,Elevated ALT,1,No,Possibly related
+TRI-162,Rash,3,No,Related
+TRI-164,Fatigue,2,No,Related
+TRI-165,Fatigue,1,No,Related
+TRI-165,Diarrhea,3,No,Not related
+TRI-165,Neutropenia,1,No,Not related
+TRI-165,Diarrhea,2,No,Related
+TRI-166,Fatigue,1,No,Related
+TRI-166,Rash,2,No,Not related
+TRI-166,Elevated ALT,3,No,Possibly related
+TRI-166,Anemia,1,No,Not related
+TRI-168,Neutropenia,1,No,Not related
+TRI-169,Rash,2,No,Related
+TRI-170,Fatigue,2,No,Possibly related
+TRI-170,Anemia,2,No,Not related
+TRI-170,Neutropenia,1,No,Possibly related
+TRI-171,Nausea,2,No,Related
+TRI-171,Fatigue,1,No,Possibly related
+TRI-171,Fatigue,3,No,Not related
+TRI-173,Rash,2,No,Possibly related
+TRI-173,Neutropenia,2,No,Not related
+TRI-174,Rash,1,No,Not related
+TRI-174,Elevated ALT,1,No,Related
+TRI-175,Fatigue,1,No,Possibly related
+TRI-176,Pneumonitis,2,No,Possibly related
+TRI-176,Fatigue,2,No,Related
+TRI-177,Neutropenia,4,Yes,Related
+TRI-177,Neutropenia,1,No,Related
+TRI-178,Fatigue,1,No,Related
+TRI-178,Fatigue,4,Yes,Related
+TRI-178,Nausea,2,No,Not related
+TRI-179,Rash,2,No,Related
+TRI-179,Rash,1,No,Not related
+TRI-179,Fatigue,2,No,Related
+TRI-179,Fatigue,1,No,Possibly related
+TRI-180,Anemia,3,Yes,Related
+TRI-180,Nausea,1,No,Not related
+TRI-182,Anemia,2,No,Not related
+TRI-184,Nausea,2,No,Possibly related
+TRI-184,Fatigue,3,No,Not related
+TRI-184,Rash,3,No,Related
+TRI-185,Neutropenia,3,No,Related
+TRI-185,Diarrhea,4,Yes,Not related
+TRI-185,Nausea,1,No,Related
+TRI-186,Rash,2,No,Possibly related
+TRI-186,Rash,1,No,Not related
+TRI-186,Elevated ALT,1,No,Not related
+TRI-187,Fatigue,2,No,Related
+TRI-187,Anemia,1,No,Possibly related
+TRI-187,Neutropenia,1,No,Not related
+TRI-188,Pneumonitis,1,No,Related
+TRI-188,Neutropenia,2,No,Not related
+TRI-189,Anemia,2,No,Related
+TRI-189,Nausea,2,No,Related
+TRI-190,Nausea,1,No,Not related
+TRI-192,Fatigue,2,No,Not related
+TRI-192,Anemia,1,No,Not related
+TRI-192,Anemia,2,No,Possibly related
+TRI-193,Diarrhea,1,No,Possibly related
+TRI-193,Fatigue,3,No,Related
+TRI-193,Diarrhea,3,No,Possibly related
+TRI-193,Diarrhea,1,No,Possibly related
+TRI-194,Anemia,3,No,Possibly related
+TRI-194,Neutropenia,3,No,Possibly related
+TRI-195,Fatigue,1,No,Not related
+TRI-195,Elevated ALT,1,No,Related
+TRI-195,Rash,1,No,Possibly related
+TRI-196,Rash,2,No,Possibly related
+TRI-196,Fatigue,1,No,Related
+TRI-197,Nausea,1,No,Possibly related
+TRI-197,Neutropenia,1,No,Not related
+TRI-197,Anemia,1,No,Related
+TRI-197,Neutropenia,1,No,Not related
+TRI-198,Diarrhea,2,No,Related
+TRI-199,Anemia,2,No,Not related
+TRI-199,Elevated ALT,1,No,Not related
+TRI-199,Neutropenia,1,No,Not related
+TRI-199,Nausea,1,No,Not related
+TRI-200,Neutropenia,2,No,Possibly related
+TRI-200,Fatigue,2,No,Not related
+TRI-200,Diarrhea,3,No,Possibly related
+TRI-201,Rash,2,No,Related
+TRI-201,Fatigue,3,No,Possibly related
+TRI-202,Anemia,3,No,Possibly related
+TRI-203,Diarrhea,2,No,Not related
+TRI-203,Nausea,2,No,Related
+TRI-203,Fatigue,2,No,Possibly related
+TRI-204,Diarrhea,2,No,Possibly related
+TRI-205,Neutropenia,2,No,Not related
+TRI-205,Anemia,1,No,Not related
+TRI-205,Fatigue,2,No,Related
+TRI-205,Rash,3,No,Related
+TRI-206,Neutropenia,3,No,Related
+TRI-206,Fatigue,2,No,Related
+TRI-206,Nausea,3,No,Possibly related
+TRI-207,Anemia,1,No,Not related
+TRI-207,Fatigue,3,No,Related
+TRI-207,Fatigue,3,No,Related
+TRI-208,Fatigue,1,No,Related
+TRI-208,Anemia,1,No,Related
+TRI-208,Rash,1,No,Possibly related
+TRI-209,Fatigue,1,No,Not related
+TRI-210,Fatigue,1,No,Related
+TRI-210,Nausea,3,No,Related
+TRI-210,Anemia,1,No,Possibly related
+TRI-210,Nausea,1,No,Related
+TRI-211,Diarrhea,2,No,Possibly related
+TRI-211,Nausea,4,Yes,Not related
+TRI-212,Nausea,1,No,Not related
+TRI-213,Anemia,3,No,Related
+TRI-213,Fatigue,1,No,Related
+TRI-214,Neutropenia,1,No,Not related
+TRI-214,Neutropenia,1,No,Not related
+TRI-214,Neutropenia,2,No,Not related
+TRI-215,Nausea,1,No,Possibly related
+TRI-216,Neutropenia,4,Yes,Possibly related
+TRI-216,Neutropenia,4,Yes,Not related
+TRI-216,Nausea,2,No,Possibly related
+TRI-216,Diarrhea,1,No,Possibly related
+TRI-218,Pneumonitis,1,No,Related
+TRI-218,Neutropenia,2,No,Not related
+TRI-218,Nausea,1,No,Related
+TRI-218,Fatigue,1,No,Related
+TRI-220,Diarrhea,2,No,Related
+TRI-220,Neutropenia,2,No,Related
+TRI-220,Nausea,3,No,Related
+TRI-220,Rash,2,No,Possibly related
+TRI-221,Anemia,1,No,Possibly related
+TRI-221,Nausea,1,No,Related
+TRI-222,Fatigue,3,No,Not related
+TRI-222,Rash,1,No,Possibly related
+TRI-222,Rash,1,No,Not related
+TRI-223,Anemia,2,No,Not related
+TRI-223,Anemia,2,No,Not related
+TRI-224,Rash,1,No,Possibly related
+TRI-224,Rash,2,No,Possibly related
+TRI-225,Fatigue,1,No,Possibly related
+TRI-226,Anemia,2,No,Not related
+TRI-226,Diarrhea,2,No,Not related
+TRI-226,Anemia,2,No,Related
+TRI-228,Fatigue,1,No,Possibly related
+TRI-228,Fatigue,1,No,Possibly related
+TRI-228,Nausea,2,No,Not related
+TRI-228,Neutropenia,2,No,Not related
+TRI-229,Anemia,1,No,Not related
+TRI-229,Fatigue,1,No,Not related
+TRI-229,Nausea,3,No,Possibly related
+TRI-229,Pneumonitis,1,No,Not related
+TRI-230,Pneumonitis,3,No,Possibly related
+TRI-230,Nausea,3,No,Possibly related
+TRI-231,Nausea,2,No,Related
+TRI-231,Elevated ALT,2,No,Not related
+TRI-231,Diarrhea,2,No,Related
+TRI-231,Neutropenia,1,No,Possibly related
+TRI-232,Neutropenia,3,Yes,Not related
+TRI-232,Rash,1,No,Related
+TRI-232,Neutropenia,3,No,Possibly related
+TRI-232,Rash,1,No,Possibly related
+TRI-233,Neutropenia,1,No,Not related
+TRI-233,Pneumonitis,2,No,Related
+TRI-233,Pneumonitis,2,No,Possibly related
+TRI-234,Rash,2,No,Possibly related
+TRI-234,Pneumonitis,1,No,Related
+TRI-235,Fatigue,1,No,Related
+TRI-235,Diarrhea,2,No,Possibly related
+TRI-235,Diarrhea,1,No,Related
+TRI-235,Nausea,3,No,Not related
+TRI-236,Nausea,2,No,Not related
+TRI-236,Fatigue,1,No,Related
+TRI-236,Diarrhea,3,No,Possibly related
+TRI-236,Diarrhea,1,No,Not related
+TRI-237,Fatigue,4,Yes,Not related
+TRI-237,Pneumonitis,1,No,Not related
+TRI-237,Fatigue,3,No,Related
+TRI-237,Nausea,1,No,Related
+TRI-238,Fatigue,3,No,Possibly related
+TRI-238,Neutropenia,1,No,Related
+TRI-240,Nausea,2,No,Possibly related
+TRI-240,Fatigue,1,No,Possibly related
+TRI-240,Neutropenia,1,No,Possibly related
+TRI-241,Nausea,3,No,Not related
+TRI-241,Fatigue,3,No,Related
+TRI-241,Anemia,1,No,Related
+TRI-242,Fatigue,3,No,Related
+TRI-242,Neutropenia,1,No,Related
+TRI-242,Elevated ALT,3,No,Related
+TRI-243,Diarrhea,2,No,Possibly related
+TRI-243,Neutropenia,1,No,Related
+TRI-243,Fatigue,2,No,Not related
+TRI-243,Pneumonitis,2,No,Possibly related
+TRI-245,Pneumonitis,1,No,Related
+TRI-245,Anemia,2,No,Related
+TRI-247,Neutropenia,2,No,Not related
+TRI-247,Rash,2,No,Possibly related
+TRI-247,Neutropenia,2,No,Not related
+TRI-247,Diarrhea,1,No,Not related
+TRI-249,Anemia,1,No,Related
+TRI-249,Diarrhea,1,No,Possibly related
+TRI-250,Rash,1,No,Related
