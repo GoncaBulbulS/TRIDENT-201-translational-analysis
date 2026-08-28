@@ -1,0 +1,2 @@
+comparison,logrank_statistic,logrank_p_value,hazard_ratio,hr_ci_lower,hr_ci_upper,cox_p_value,ph_km_p_value,ph_rank_p_value
+TRIDENT + SOC vs SOC,0.5987656918015422,0.43904935846599713,0.8686878300532538,0.6085109077915409,1.2401068516936795,0.4382882079028503,0.497488614586178,0.377556157575315
