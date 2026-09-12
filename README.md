@@ -189,11 +189,11 @@ TRIDENT-201-translational-analysis/
 ├── data/
 │   └── raw/                       # Synthetic source datasets
 ├── notebooks/
-│   ├── 03_baseline_biomarker_analysis.ipynb
-│   ├── 04_biomarkers_and_clinical_outcomes.ipynb
-│   ├── 05_treatment_specific_biomarker_analysis.ipynb
-│   ├── 06_survival_analysis.ipynb
-│   └── 07_multivariable_survival_analysis.ipynb
+│   │── 01_baseline_biomarker_analysis.ipynb
+│   ├── 02_biomarkers_and_clinical_outcomes.ipynb
+│   ├── 03_treatment_specific_biomarker_analysis.ipynb
+│   ├── 04_survival_analysis.ipynb
+│   └── 05_multivariable_survival_analysis.ipynb
 ├── results/
 │   ├── figures/                   # Portfolio-quality figures
 │   └── tables/                    # Reproducible statistical outputs
@@ -203,19 +203,19 @@ TRIDENT-201-translational-analysis/
 
 ## Notebook Guide
 
-**03 — Baseline Biomarker Analysis**
+**01 — Baseline Biomarker Analysis**
 Exploratory biomarker characterization, distributions, transformations, correlation analysis, confidence intervals, sensitivity analyses, and multiple-testing correction.
 
-**04 — Biomarkers and Clinical Outcomes**
+**02 — Biomarkers and Clinical Outcomes**
 Baseline biomarker associations with objective response, treatment-level response analysis, effect-size estimation, and logistic regression.
 
-**05 — Treatment-Specific Biomarker Analysis**
+**03 — Treatment-Specific Biomarker Analysis**
 Biomarker-by-treatment interaction modeling, prognostic versus predictive interpretation, FDR correction, predicted probabilities, and ctDNA sensitivity analysis.
 
-**06 — Survival Analysis**
+**04 — Survival Analysis**
 PFS and OS data QC, Kaplan–Meier estimation, log-rank testing, treatment-only Cox regression, proportional-hazards assessment, and restricted mean survival time.
 
-**07 — Multivariable Survival Analysis**
+**05 — Multivariable Survival Analysis**
 Baseline-adjusted Cox modeling, covariate interpretation, proportional-hazards diagnostics, stratified modeling, flexible age modeling, and sensitivity analyses for potential time-varying effects.
 
 ## Tools and Methods
